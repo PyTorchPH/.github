@@ -1,59 +1,53 @@
-# PyTorch FEU Tech Chapter
+# PyTorch Philippines
 
-**PyTorch Philippines — FEU Institute of Technology Campus Lab**, incubated under the
-**Association for Computing Machinery (ACM) – FEU Institute of Technology Student Chapter**.
+**PyTorch Philippines** is a nationwide, community-led network for people who learn, teach,
+research, and build with PyTorch and the broader machine learning ecosystem.
 
-A student community that cultivates excellence in **artificial intelligence, machine learning,
-data analytics, and modern computational technologies** through education, collaboration,
-innovation, and healthy competition.
+We connect learners, researchers, educators, engineers, open-source contributors, local
+communities, and partner organizations across the Philippines.
 
----
+## Mission
 
-## 🎯 Mission
+Make practical machine learning education and collaboration more accessible throughout the
+Philippines. We help people turn knowledge into responsible research, useful technology,
+open-source contributions, and measurable community impact.
 
-We exist to cultivate a community of students who continuously develop excellence in AI, ML, data
-analytics, and related technologies — making these fields **accessible, practical, and impactful**
-across disciplines, industries, and communities in the Philippines. Through structured learning,
-merit-based development, mentorship, and collaborative projects, we empower members to become
-competent professionals, researchers, innovators, and leaders.
+## What we do
 
-## 🔭 Vision
+- Organize talks, workshops, study groups, and hands-on learning activities.
+- Support open-source projects, technical demonstrations, and educational resources.
+- Connect practitioners and researchers for mentorship, collaboration, and knowledge sharing.
+- Create opportunities for communities across the country to participate and lead.
+- Encourage responsible, reproducible, and inclusive machine learning practice.
 
-To become one of the country's leading student organizations recognized for developing
-high-performing individuals and advancing technical excellence — a community where members grow
-**alongside one another toward higher standards of excellence**, and that is nationally and
-internationally recognized for the graduates, leaders, researchers, competitors, and innovators it
-produces.
+## Who can participate
 
-## 🧭 Core Values
+PyTorch Philippines welcomes people at every experience level: first-time learners, students,
+educators, researchers, software and machine learning engineers, community organizers, and
+experienced contributors.
 
-**Integrity · Meritocracy · Innovation · Continuous Learning · Service · Excellence ·
-Accountability · Collaboration · Inclusivity · Sustainability**
+Participation is open to people who want to learn, share, build, mentor, or help strengthen the
+Philippine machine learning community. Respectful collaboration and meaningful contribution guide
+how we work together.
 
-We believe excellence is developed through continuous learning, constructive feedback, discipline,
-collaboration, and healthy competition — competing not against one another, but *alongside* one
-another.
+## Repository scope
 
-## 🛠️ What we build
+Repositories in this organization may contain:
 
-- **AI Career Intelligence Platform** ([`pytorch-fit-system`](https://github.com/PyTorch-FEU-Tech-Chapter/pytorch-fit-system)) —
-  an industry-first, project-based résumé/profile generator built on a normalized career database.
-- **Merit & Growth systems** — points, leaderboards, and growth diagnostics that recognize real
-  contribution (projects, competitions, research, learning progress) over mere attendance.
-- **Open-source projects** across AI/ML, data analytics, automation, and developer tooling.
+- Community-maintained learning materials and examples
+- Open-source machine learning projects and developer tools
+- Research prototypes and reproducible technical demonstrations
+- Event resources, workshops, and community operations
 
-## 🧩 Membership (merit-based)
+Each repository documents its own purpose, maintenance status, contribution process, and license.
 
-| Tier | How you grow |
-|---|---|
-| **General Member** | Open to qualified students — join activities, trainings, workshops, competitions. |
-| **Active Member** | Earned through documented, verified contribution (projects, competitions, research, learning). |
-| **Officer** | Active members in good standing, selected by demonstrated competence and sustained contribution. |
+## Community principles
 
-Opportunities are **earned through contribution, not tenure** — responsibility over entitlement,
-long-term commitment over temporary involvement.
+**Openness · Integrity · Inclusion · Collaboration · Continuous Learning · Responsible Innovation**
+
+We value clear knowledge sharing, constructive feedback, reproducible work, and technology that
+serves people and communities across the Philippines.
 
 ---
 
-> Building sustainable systems so officers and members can focus their expertise on **leadership,
-> education, innovation, and meaningful community impact.**
+> Learn together. Build responsibly. Grow the PyTorch community across the Philippines.
